@@ -3,8 +3,6 @@ import { useState } from 'react'
 
 const Form = () => {
 
-
-
 const [formData, setFormData] = useState({})
 
 console.log("App rendering......")
